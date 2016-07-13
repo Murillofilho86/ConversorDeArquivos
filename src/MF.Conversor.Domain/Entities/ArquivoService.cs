@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace MF.Conversor.Domain.Entities
 {
-    public class Arquivos
+    public class ArquivoService
     {
-        public string Nome { get; set; }
-
     }
-
 }

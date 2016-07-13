@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MF.Conversor.Domain.Entities
+namespace MF.Conversor.Domain.Interfaces
 {
-    public class Arquivos
+    public interface IArquivoService
     {
-        public string Nome { get; set; }
-
     }
-
 }

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace MF.Conversor.Domain.Interfaces
 {
-    interface IArquivoService
+    public interface IArquivoService
     {
+        void SelecionarArquivo();
+
     }
 }

@@ -9,6 +9,6 @@ namespace MF.Conversor.Domain.Entities
     public class Arquivos
     {
         public string Nome { get; set; }
-        
+        public string Extensao { get; set; }
     }
 }
